@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Arun
-- 👀 I’m interested in automation 
-- 🌱 I’m currently learning AWS
+- Interested in automation 
 - 💞️ I’m looking to collaborate on AWS best practices
 - 📫 How to reach me arungoud2000@gmail.com
 
